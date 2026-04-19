@@ -11,6 +11,7 @@ import java.util.ArrayList;
 
 /**
  * MainActivity displays list of products using RecyclerView
+ *
  */
 
 public class MainActivity extends AppCompatActivity {
